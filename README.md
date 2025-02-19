@@ -9,6 +9,9 @@ Back-end: PostgreSQL, RESTful APIs, migrations
 Front-end: React, accessibility tools
 Tools: Git/GitHub, CI/CD, Agile/SCRUM
 
+🌱 Currently Learning
+JavaScript and TypeScript
+
 🚀 Projects
 NC-News | Backend API
 Built a RESTful API with Node.js, Express, and PostgreSQL to manage news articles, comments, and users.
