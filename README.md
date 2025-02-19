@@ -13,7 +13,8 @@ Tools: Git/GitHub, CI/CD, Agile/SCRUM
 JavaScript and TypeScript
 
 🚀 Projects
-NC-News | Backend API | [Github Link](https://github.com/Alsamri/nc_project_news)
+NC-News | Backend API | [Github Link](https://github.com/Alsamri/nc_project_news).
+
 Built a RESTful API with Node.js, Express, and PostgreSQL to manage news articles, comments, and users.
 Implemented CRUD operations, pagination, and sorting.
 Tested with Jest and Supertest and set up CI/CD pipelines.
