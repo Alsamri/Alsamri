@@ -14,6 +14,7 @@ JavaScript and TypeScript
 
 🚀 Projects
 NC-News | Backend API | [Github Link](https://github.com/Alsamri/nc_project_news).
+
 NC-News | Frontend | [Github Link](https://github.com/Alsamri/fe_nc_news)
 Built a RESTful API with Node.js, Express, and PostgreSQL to manage news articles, comments, and users.
 Implemented CRUD operations, pagination, and sorting.
