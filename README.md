@@ -1,6 +1,6 @@
 👋 Hi, I’m Alsamri (Alois)!
 
-💻 Passionate Software Developer | Problem Solver
+💻  Software Developer 
 
 🛠️ Skills
 Languages: JavaScript (Node.js), SQL, HTML, CSS
