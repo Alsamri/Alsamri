@@ -19,7 +19,15 @@ NC-News | Backend API | [Github Link](https://github.com/Alsamri/nc_project_news
 Built a RESTful API with Node.js, Express, and PostgreSQL to manage news articles, comments, and users.
 Implemented CRUD operations, pagination, and sorting.
 Tested with Jest and Supertest and set up CI/CD pipelines.
+
+
 NC-News | Frontend | [Github Link](https://github.com/Alsamri/fe_nc_news)
+
+Built a responsive frontend with React and React Router to interact with a RESTful API for news articles, comments, and users.
+Implemented features like article browsing, sorting, and user interactions (voting, commenting).
+Tested with React Testing Library and deployed on Netlify.
+
+
 
 
 
