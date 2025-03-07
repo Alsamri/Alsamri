@@ -3,14 +3,14 @@
 💻  Software Developer 
 
 🛠️ Skills
-Languages: JavaScript (Node.js), SQL, HTML, CSS
+Languages: JavaScript (Node.js), TypeScript, SQL, HTML, CSS
 Testing: Jest, Supertest, TDD
 Back-end: PostgreSQL, RESTful APIs, migrations
-Front-end: React, accessibility tools
+Front-end: React, Next.js accessibility tools
 Tools: Git/GitHub, CI/CD, Agile/SCRUM
 
 🌱 Currently Learning
-JavaScript and TypeScript
+TypeScript, Next.js
 
 🚀 Projects
 
