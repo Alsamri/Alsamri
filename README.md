@@ -25,7 +25,7 @@ NC-News | Frontend | [Github Link](https://github.com/Alsamri/fe_nc_news)
 
 Built a responsive frontend with React and React Router to interact with a RESTful API for news articles, comments, and users.
 Implemented features like article browsing, sorting, and user interactions (voting, commenting).
-Tested with React Testing Library and deployed on Netlify.
+ Deployed on Netlify.
 
 
 
