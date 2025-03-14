@@ -3,16 +3,23 @@
 💻  Software Developer 
 
 🛠️ Skills
-Languages: JavaScript (Node.js), TypeScript, SQL, HTML, CSS
-Testing: Jest, Supertest, TDD
-Back-end: PostgreSQL, RESTful APIs, migrations
-Front-end: React, Next.js accessibility tools
-Tools: Git/GitHub, CI/CD, Agile/SCRUM
+• Languages: JavaScript, using Node.js and browsers as the environment. TypeScript.
+• Testing: TDD (Test Driven Development), Jest, Supertest. 
+• Back-end: SQL, PSQL, seeding, migrations. 
+• Front-end: HTML, CSS, React,Next.js, Lighthouse and other accessibility tools. 
+• Hosting: Cloudflare, Netlify. 
+• Other: Paired programming, Jira, Figma, technical communication, SDL, Agile and SCRUM methodologies. 
 
 🌱 Currently Learning
 TypeScript, Next.js
 
 🚀 Projects
+
+Code4Change | Full Stack Application | [Github Link](https://github.com/nxvafps/code4change).
+
+Built a full-stack application using TypeScript, Next.js, React, and Express. Developed the PostgreSQL database architecture and RESTful APIs.
+Contributed to the frontend with responsive UI components and efficient API integration. 
+Worked in an Agile team environment with Jira and followed TDD practices using Jest and Supertest.
 
 NC-News | Backend API | [Github Link](https://github.com/Alsamri/nc_project_news).
 
