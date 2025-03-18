@@ -16,9 +16,6 @@
 
 • Other: Paired programming, Jira, Figma, technical communication, SDL, Agile and SCRUM methodologies. 
 
-🌱 Currently Learning
-TypeScript, Next.js
-
 🚀 Projects
 
 Code4Change | Full Stack Application | [Github Link](https://github.com/nxvafps/code4change).
