@@ -4,17 +4,14 @@
 
 🛠️ Skills
 
-• Languages: JavaScript, using Node.js and browsers as the environment. TypeScript.
+• Web Development: JavaScript/TypeScript, React, Next.js, Node.js, HTML/CSS, Tailwind CSS, DaisyUI. 
 
-• Testing: TDD (Test Driven Development), Jest, Supertest.
+• Database Technologies: SQL, PostgreSQL, Prisma ORM, Drizzle ORM, Redis.  
 
-• Back-end: SQL, PSQL, seeding, migrations. 
+• Testing: TDD (Test Driven Development), Jest, Supertest. 
 
-• Front-end: HTML, CSS, React,Next.js, Lighthouse and other accessibility tools. 
-
-• Hosting: Cloudflare, Netlify. 
-
-• Other: Paired programming, Jira, Figma, technical communication, SDL, Agile and SCRUM methodologies. 
+• DevOps & Tools: Git/GitHub, CI/CD pipelines, Cloudflare, Netlify, Vercel, Render, Jira, Figma 
+Agile/SCRUM methodologies. 
 
 <!---
 Alsamri/Alsamri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
