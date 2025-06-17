@@ -4,7 +4,7 @@
 
 🛠️ Skills
 
-• Web Development: JavaScript/TypeScript, React, Next.js, Node.js, HTML/CSS, Tailwind CSS, DaisyUI. 
+• Web Development: JavaScript/TypeScript, React, Next.js, Node.js, HTML/CSS, Tailwind CSS, DaisyUI, Shadcn/UI. 
 
 • Database Technologies: SQL, PostgreSQL, Prisma ORM, Drizzle ORM, Redis.  
 
