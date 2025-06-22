@@ -10,7 +10,7 @@
 
 • Testing: TDD (Test Driven Development), Jest, Supertest. 
 
-• DevOps & Tools: Git/GitHub, CI/CD pipelines, Cloudflare, Netlify, Vercel, Render, Jira, Figma 
+• DevOps & Tools: Git/GitHub, CI/CD pipelines, Netlify, Vercel, Render, Jira, Figma 
 Agile/SCRUM methodologies. 
 
 <!---
